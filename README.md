@@ -8,7 +8,8 @@
   * **Integrante 1 (Cibersegurança):** Ana Souza | RGM: 1234567 | GitHub: [@anasouza-sec](https://github.com/)
   * **Integrante 2 (Cloud):** Grazielle Silva Luiz| RGM: 47762144 | GitHub: https://github.com/grazisilvaluiz-tech(https://github.com/)
   * **Integrante 3 (Redes):** Carla Mendes | RGM: 3456789 | GitHub: [@carlamendes-net](https://github.com/)
-  * **Integrante 4 (Gestão):** Rafael Gimenes | RGM: 47828111 | GitHub: [https://github.com/rafaelgimeneshbf-max
+  * **Integrante 3 (Redes):** Luara Saviti Viana | RGM: 48129437 | GitHub:https://github.com/luara-savitisk8-dev
+  * **Integrante 4 (Gestão):** Rafael Gimenes | RGM: 4782811 | GitHub: [rafaelgimeneshbf-max](https://github.com/)
 
 ---
 
@@ -123,14 +124,15 @@ A decisão do grupo é **implantar com controles estritos**. O projeto não pode
   * *Meta:* Conduzir pelo menos 3 simulações práticas de resposta a incidentes de *Supply Chain* em laboratório de testes até o final do ano.
 * **Feedback Conjunto do Grupo:** A Ana demonstrou excelente domínio técnico na identificação de vetores de ataque em APIs, conduzindo as defesas com rigor e clareza para toda a equipe.
 
-### Capítulo do Integrante 2: Bruno Lima (Cloud)
+### Capítulo do Integrante 2: Grazielle Silva (Cloud)
+### Capítulo do Integrante 2: Grazielle Silva Luiz (Cloud)
 * **Papel no Projeto:** Responsável pela arquitetura de infraestrutura em nuvem, configuração dos cofres de chaves e isolamento dos ambientes de multi-tenancy.
 * **Plano de Desenvolvimento (Metas SMART para 6 a 12 meses):**
   * *Meta:* Concluir a certificação AWS Certified Solutions Architect - Professional em até 6 meses.
   * *Meta:* Implementar automações de infraestrutura como código (Terraform) para provisionamento seguro de ambientes hospitalares em 4 meses.
 * **Feedback Conjunto do Grupo:** O Bruno garantiu que a infraestrutura em nuvem fosse escalável e segura, mantendo uma comunicação fluida com as frentes de redes e segurança.
 
-### Capítulo do Integrante 3: Carla Mendes (Redes)
+### Capítulo do Integrante 3: Luara Saviti (Redes)
 * **Papel no Projeto:** Responsável pela implementação da micro-segmentação de rede (leste-oeste) e diretrizes de acesso Zero Trust Network Access (ZTNA).
 * **Plano de Desenvolvimento (Metas SMART para 6 a 12 meses):**
   * *Meta:* Obter especialização em arquiteturas Zero Trust e redes definidas por software (SDN) em 9 meses.
