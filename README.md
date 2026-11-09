@@ -5,7 +5,7 @@
 * **Dossiê Escolhido:** #12 – Ataques cibernéticos a hospitais e ao sistema financeiro[cite: 9]
 * **Recorte Adotado:** Opção 4 – Recorte por Vetor de Ataque (Cadeia de Suprimentos / B2B), focado em vulnerabilidades originadas em fornecedores terceirizados de software de gestão hospitalar (ERP/SaaS) que criam brechas secundárias nos módulos de prontuários eletrônicos e transações financeiras.
 * **Integrantes do Grupo (4 membros):**
-  * **Integrante 1 (Cibersegurança):** Ana Souza | RGM: 1234567 | GitHub: [@anasouza-sec](https://github.com/)
+  * **Integrante 1 (Cibersegurança):** Felipe Gonçales de Souza Moura | RGM: 47897694 | GitHub:(https://github.com/felipegoncales05-pixel)
   * **Integrante 2 (Cloud):** Grazielle Silva Luiz| RGM: 47762144 | GitHub: https://github.com/grazisilvaluiz-tech(https://github.com/)
   * **Integrante 3 (Redes):** Carla Mendes | RGM: 3456789 | GitHub: [@carlamendes-net](https://github.com/)
   * **Integrante 3 (Redes):** Luara Saviti Viana | RGM: 48129437 | GitHub:https://github.com/luara-savitisk8-dev
@@ -117,7 +117,7 @@ A decisão do grupo é **implantar com controles estritos**. O projeto não pode
 
 ## 9. Capítulos individuais
 
-### Capítulo do Integrante 1: Ana Souza (Cibersegurança)
+### Capítulo do Integrante 1: Felipe Gonçales de Souza Moura (Cibersegurança)
 * **Papel no Projeto:** Responsável pela especificação das políticas de criptografia, modelagem de ameaças e diretrizes de blindagem das APIs B2B (confirmado por commits de hardening no repositório).
 * **Plano de Desenvolvimento (Metas SMART para 6 a 12 meses):**
   * *Meta:* Obter a certificação internacional OSCP (*Offensive Security Certified Professional*) nos próximos 8 meses para aprofundar testes de intrusão em ambientes de saúde.
