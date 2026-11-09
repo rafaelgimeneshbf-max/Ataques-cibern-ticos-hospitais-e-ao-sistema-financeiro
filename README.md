@@ -7,6 +7,7 @@
 * **Integrantes do Grupo (4 membros):**
   * **Integrante 1 (Cibersegurança):** Ana Souza | RGM: 1234567 | GitHub: [@anasouza-sec](https://github.com/)
   * **Integrante 2 (Cloud):** Grazielle Silva Luiz| RGM: 47762144 | GitHub: https://github.com/grazisilvaluiz-tech(https://github.com/)
+  * **Integrante 3 (Redes):** Carla Mendes | RGM: 3456789 | GitHub: [@carlamendes-net](https://github.com/)
   * **Integrante 3 (Redes):** Luara Saviti Viana | RGM: 48129437 | GitHub:https://github.com/luara-savitisk8-dev
   * **Integrante 4 (Gestão):** Rafael Gimenes | RGM: 4782811 | GitHub: [rafaelgimeneshbf-max](https://github.com/)
 
